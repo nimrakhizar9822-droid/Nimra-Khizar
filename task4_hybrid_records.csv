@@ -1,0 +1,109 @@
+image_id,n_objects,mean_area,density_class,quality_flag,narrative,llm_raw_output
+test_000,8,47.0,sparse,reliable,"This image appears to contain 8 distinct objects with relatively uniform areas, suggesting a sparse density class.","{
+  ""image_id"": ""test_000"",
+  ""n_objects"": 8,
+  ""mean_area"": 47.0,
+  ""density_class"": ""sparse"",
+  ""quality_flag"": ""reliable""
+}
+
+This image appears to contain 8 distinct objects with relatively uniform areas, suggesting a sparse density class."
+test_001,14,49.6,sparse,reliable,"This image contains 14 well-defined regions, with a mean area of approximately 50 square pixels, indicating a sparse and relatively uniform distribution.","{
+  ""image_id"": ""test_001"",
+  ""n_objects"": 14,
+  ""mean_area"": 49.6,
+  ""density_class"": ""sparse"",
+  ""quality_flag"": ""reliable""
+}
+
+This image contains 14 well-defined regions, with a mean area of approximately 50 square pixels, indicating a sparse and relatively uniform distribution."
+test_002,25,56.7,normal,reliable,"This image contains 25 distinct regions, with a mean area of 56.7 pixels squared, and is classified as normal in terms of density.","{
+  ""image_id"": ""test_002"",
+  ""n_objects"": 25,
+  ""mean_area"": 56.7,
+  ""density_class"": ""normal"",
+  ""quality_flag"": ""reliable""
+}
+
+This image contains 25 distinct regions, with a mean area of 56.7 pixels squared, and is classified as normal in terms of density."
+test_003,19,51.7,normal,reliable,"This image contains 19 objects with a mean area of 51.7 square pixels, suggesting a relatively uniform distribution of features.","{
+  ""image_id"": ""test_003"",
+  ""n_objects"": 19,
+  ""mean_area"": 51.7,
+  ""density_class"": ""normal"",
+  ""quality_flag"": ""reliable""
+}
+
+This image contains 19 objects with a mean area of 51.7 square pixels, suggesting a relatively uniform distribution of features."
+test_004,43,81.9,dense,reliable,"This image contains 43 distinct regions, with a mean area of 81.9 pixels squared, and is classified as dense.","{
+  ""image_id"": ""test_004"",
+  ""n_objects"": 43,
+  ""mean_area"": 81.9,
+  ""density_class"": ""dense"",
+  ""quality_flag"": ""reliable""
+}
+
+This image contains 43 distinct regions, with a mean area of 81.9 pixels squared, and is classified as dense."
+test_005,15,108.1,normal,reliable,"This image contains 15 well-defined regions with a mean area of 108.1 pixels, consistent with the ground truth classification of normal density.","{
+  ""image_id"": ""test_005"",
+  ""n_objects"": 15,
+  ""mean_area"": 108.1,
+  ""density_class"": ""normal"",
+  ""quality_flag"": ""reliable""
+}
+
+This image contains 15 well-defined regions with a mean area of 108.1 pixels, consistent with the ground truth classification of normal density."
+test_006,8,50.0,sparse,reliable,"This image contains 8 distinct objects, with a mean object area of approximately 50 pixels, suggesting a relatively sparse density pattern.","{
+  ""image_id"": ""test_006"",
+  ""n_objects"": 8,
+  ""mean_area"": 50.0,
+  ""density_class"": ""sparse"",
+  ""quality_flag"": ""reliable""
+}
+
+This image contains 8 distinct objects, with a mean object area of approximately 50 pixels, suggesting a relatively sparse density pattern."
+test_007,23,50.4,normal,reliable,This image contains 23 well-defined objects with an average area of 50.4 pixels.,"{
+  ""image_id"": ""test_007"",
+  ""n_objects"": 23,
+  ""mean_area"": 50.4,
+  ""density_class"": ""normal"",
+  ""quality_flag"": ""reliable""
+}
+
+This image contains 23 well-defined objects with an average area of 50.4 pixels."
+test_008,23,60.2,normal,reliable,"This image contains 23 well-defined regions of varying sizes, suggesting a reliable segmentation result.","{
+  ""image_id"": ""test_008"",
+  ""n_objects"": 23,
+  ""mean_area"": 60.2,
+  ""density_class"": ""normal"",
+  ""quality_flag"": ""reliable""
+}
+
+This image contains 23 well-defined regions of varying sizes, suggesting a reliable segmentation result."
+test_009,21,44.9,normal,reliable,"This image contains 21 distinct objects with a mean area of 44.9 pixels squared, classified as normal density.","{
+  ""image_id"": ""test_009"",
+  ""n_objects"": 21,
+  ""mean_area"": 44.9,
+  ""density_class"": ""normal"",
+  ""quality_flag"": ""reliable""
+}
+
+This image contains 21 distinct objects with a mean area of 44.9 pixels squared, classified as normal density."
+test_010,35,93.7,dense,reliable,"This image contains 35 distinct regions of varying density, with a mean area of approximately 94 square pixels.","{
+  ""image_id"": ""test_010"",
+  ""n_objects"": 35,
+  ""mean_area"": 93.7,
+  ""density_class"": ""dense"",
+  ""quality_flag"": ""reliable""
+}
+
+This image contains 35 distinct regions of varying density, with a mean area of approximately 94 square pixels."
+test_011,19,48.3,normal,reliable,"This image contains 19 objects with an average area of 48.3 square pixels, and is classified as normal in terms of density.","{
+  ""image_id"": ""test_011"",
+  ""n_objects"": 19,
+  ""mean_area"": 48.3,
+  ""density_class"": ""normal"",
+  ""quality_flag"": ""reliable""
+}
+
+This image contains 19 objects with an average area of 48.3 square pixels, and is classified as normal in terms of density."
